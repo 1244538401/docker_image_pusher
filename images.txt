@@ -1,2 +1,2 @@
-newfuture/ddns
+sanjusss/aliyun-ddns
 --platform=linux/arm64 xiaoyaliu/alist
