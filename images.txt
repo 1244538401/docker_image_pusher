@@ -1,2 +1,2 @@
-docker pull gdy666/lucky
+docker pull lucky
 --platform=linux/arm64 xiaoyaliu/alist
